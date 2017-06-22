@@ -1,0 +1,1 @@
+c:\User\Sheridan\VirtualEnv\blog_env\Scripts\activate
